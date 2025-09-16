@@ -7,6 +7,8 @@ import Register from './pages/Register'
 import Jobs from './pages/Jobs'
 import Footer from './compontents/Footer'
 import JobDescription from './pages/JobDescription'
+import AboutUs from './pages/AboutUs'
+import ContactUs from './pages/ContactUs'
 const App = () => {
   return (
     <>
@@ -18,6 +20,8 @@ const App = () => {
          <Route path='/register' element={<Register/>}/>
           <Route path='/jobs' element={<Jobs/>}/>
           <Route path='/jobDes' element={<JobDescription/>}/>
+          <Route path='/aboutUs' element={<AboutUs/>}/>
+          <Route path='/contactUs' element={<ContactUs/>}/>
       </Routes>
       <Footer/>
     </Router>

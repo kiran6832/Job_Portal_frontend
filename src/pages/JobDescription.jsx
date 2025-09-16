@@ -2,8 +2,11 @@ import React from 'react'
 
 const JobDescription = () => {
   return (
-    <div className='min-h-screen bg-black py-16'>
-        <div className='bg-[#111111] rounded-2xl mx-16 px-8 py-6'>
+    <div className='min-h-screen bg-black'>
+      <div className='bg-[#8C52FF] flex justify-center items-center h-[300px]'>
+        <h1 className='text-center font-bold text-[45px]'>Job Details</h1>
+      </div>
+        <div className='bg-[#111111] rounded-2xl mx-16 px-8 py-6 mt-12'>
           <h className='text-white font-bold text-[28px]'>Full stack developer</h>
          
             

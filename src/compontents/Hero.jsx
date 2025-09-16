@@ -8,7 +8,7 @@ const Hero = () => {
         Connecting Talent with Opportunities Across the Nation for Every Skill
         Level
       </h4>
-      <p className="text-white text-[18px] md:text-[23px] text-center px-2 md:px-24 py-8 md:max-w-4xl bg-[#8C52FF] hover:bg-white hover:text-[#8C52FF] rounded-full">
+      <p className="text-white  md:text-[23px] text-center px-2 md:px-24 py-8 md:max-w-4xl bg-[#8C52FF] hover:bg-white hover:text-[#8C52FF] rounded-full">
         Explore a vast array of job listings in diverse industries. Whether
         you're a seasoned professional or just starting out, find the perfect
         role to advance your career. Our platform makes job searching easy and
